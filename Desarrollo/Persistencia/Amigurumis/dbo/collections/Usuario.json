@@ -1,0 +1,32 @@
+﻿[
+  {
+    "IdCliente": "217940CB-CA7E-4375-8B4B-0B743B44A7B7",
+    "Nombre": "JUAN",
+    "Apellido": "GUERRA",
+    "NumerodeDocumento": "1007286773",
+    "Correo": "JUAN@GMAIL.COM",
+    "Direccion": "CALLE C",
+    "Genero": "Masculino",
+    "TipoDeDocumento": "Pasaporte"
+  },
+  {
+    "IdCliente": "56B21CF0-B597-4B91-8304-E007DB624B40",
+    "Nombre": "ana",
+    "Apellido": "Cano",
+    "NumerodeDocumento": "1035678211",
+    "Correo": "Ana@gamil.com",
+    "Direccion": "calle b",
+    "Genero": "Otro",
+    "TipoDeDocumento": "NIE"
+  },
+  {
+    "IdCliente": "ACBD3D0B-7BA5-4353-A2EB-F22ED805FEA7",
+    "Nombre": "Luna",
+    "Apellido": "Velez",
+    "NumerodeDocumento": "1007614921",
+    "Correo": "luna@gmail.com",
+    "Direccion": "calle a ",
+    "Genero": "No binario",
+    "TipoDeDocumento": "Carnet de conducir"
+  }
+]

@@ -1,0 +1,27 @@
+﻿[
+  {
+    "NombreCliente": "Ana",
+    "MetodoDePago": "Efectivo",
+    "ValorTotalVenta": 500000
+  },
+  {
+    "NombreCliente": "Sofia",
+    "MetodoDePago": "Tarjeta credito",
+    "ValorTotalVenta": 150000
+  },
+  {
+    "NombreCliente": "Celeste",
+    "MetodoDePago": "Tarjeta debito",
+    "ValorTotalVenta": 100000
+  },
+  {
+    "NombreCliente": "Alejandra",
+    "MetodoDePago": "Credito",
+    "ValorTotalVenta": 700000
+  },
+  {
+    "MetodoDePago": "Transferencia",
+    "NombreCliente": "Sofia",
+    "ValorTotalVenta": 600000
+  }
+]

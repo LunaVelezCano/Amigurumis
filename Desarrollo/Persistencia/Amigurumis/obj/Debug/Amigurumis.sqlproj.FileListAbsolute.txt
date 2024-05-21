@@ -1,0 +1,16 @@
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\bin\Debug\Amigurumis.dacpac
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\bin\Debug\Amigurumis.dll
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\bin\Debug\Amigurumis.pdb
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\obj\Debug\Amigurumis.sqlproj.AssemblyReference.cache
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\obj\Debug\Amigurumis.dll
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\obj\Debug\Amigurumis.pdb
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\obj\Debug\Model.xml
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\obj\Debug\refactor.xml
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\obj\Debug\postdeploy.sql
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\obj\Debug\predeploy.sql
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\bin\Debug\Amigurumis.dacpac
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\bin\Debug\Amigurumis.dll
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\bin\Debug\Amigurumis.pdb
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\obj\Debug\Amigurumis.sqlproj.AssemblyReference.cache
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\obj\Debug\Amigurumis.dll
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\Amigurumis\obj\Debug\Amigurumis.pdb

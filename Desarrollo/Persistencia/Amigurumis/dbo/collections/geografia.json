@@ -1,0 +1,42 @@
+﻿[
+  {
+    "IdCiudad": "92969E67-70C3-4A3F-884F-1998AD2552CC",
+    "IdDepartamento": "81FE30F9-EF14-43B3-AB08-BBDD44E55E75",
+    "IdPais": "B2361528-49D0-440A-B975-E610F63975F4",
+    "NombreCiudad": "Santiago",
+    "NombreDepartamento": "Santiago",
+    "NombrePais": "Chile"
+  },
+  {
+    "IdCiudad": "58DE87D2-4BE3-47B9-8D5D-2BADFEDA421D",
+    "NombreCiudad": "Manaos",
+    "IdDepartamento": "93F33BC8-481A-43A7-BFB0-CE348F7DCDF5",
+    "NombreDepartamento": "Amazonas",
+    "IdPais": "B6BD1901-1336-4487-85AF-0458095B31A3",
+    "NombrePais": "Brasil"
+  },
+  {
+    "IdCiudad": "8C57BA17-7013-44CC-B0A2-B9B633FFE527",
+    "NombreCiudad": "Chihuahua",
+    "IdDepartamento": "2BC0DD45-D501-4244-B549-7A8EC94E57D1",
+    "NombreDepartamento": "Chihuahua",
+    "IdPais": "1BF0C8EB-C202-4CFE-B053-F5485EAC6B15",
+    "NombrePais": "Mexico"
+  },
+  {
+    "IdCiudad": "6119604A-6D2C-483D-A11B-DA5E29518978",
+    "NombreCiudad": "Medellin",
+    "IdDepartamento": "3361C363-76E0-485B-8E47-472C0068BA12",
+    "NombreDepartamento": "Antioquia",
+    "IdPais": "DE75B34E-C859-4AE0-BE28-0E759259633D",
+    "NombrePais": "Colombia"
+  },
+  {
+    "IdCiudad": "10F4DC5B-82A5-4589-BBA9-E591D623EFEC",
+    "NombreCiudad": "La Plata",
+    "IdDepartamento": "2F86715E-3108-453E-8343-7EE9086B9C80",
+    "NombreDepartamento": "Buenos Aires",
+    "IdPais": "780D5C7D-8196-4E92-86E1-D6D489637A2D",
+    "NombrePais": "Argentina"
+  }
+]

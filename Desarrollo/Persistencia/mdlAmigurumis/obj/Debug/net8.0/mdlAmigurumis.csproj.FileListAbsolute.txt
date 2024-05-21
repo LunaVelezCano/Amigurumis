@@ -1,0 +1,12 @@
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\bin\Debug\net8.0\mdlAmigurumis.deps.json
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\bin\Debug\net8.0\mdlAmigurumis.dll
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\bin\Debug\net8.0\mdlAmigurumis.pdb
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\obj\Debug\net8.0\mdlAmigurumis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\obj\Debug\net8.0\mdlAmigurumis.AssemblyInfoInputs.cache
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\obj\Debug\net8.0\mdlAmigurumis.AssemblyInfo.cs
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\obj\Debug\net8.0\mdlAmigurumis.csproj.CoreCompileInputs.cache
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\obj\Debug\net8.0\mdlAmigurumis.dll
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\obj\Debug\net8.0\refint\mdlAmigurumis.dll
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\obj\Debug\net8.0\mdlAmigurumis.pdb
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\obj\Debug\net8.0\ref\mdlAmigurumis.dll
+C:\Users\VANEVEL\Documents\DocumentosLuna\MetodologiasDesarrollo\MD\amigurumisJL\MetodologiasDesarrollo\MD\amigurumisJL\Desarrollo\Persistencia\mdlAmigurumis\obj\Debug\net8.0\mdlAmigurumis.csproj.AssemblyReference.cache

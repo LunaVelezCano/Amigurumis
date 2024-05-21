@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gIPhSkegUURGqU7rj537KU5cHM0weEQegKZwi6Fgq+rRNQQ33HMdabJf7D8Mt9tEO2IC2gt/c41+7ArHQLKH3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\mdlAmigurumis\\mdlAmigurumis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VANEVEL\\.nuget\\packages\\mongodb.bson\\2.25.0\\mongodb.bson.2.25.0.nupkg.sha512",
+    "C:\\Users\\VANEVEL\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\VANEVEL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

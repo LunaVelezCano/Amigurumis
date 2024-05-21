@@ -1,0 +1,32 @@
+﻿[
+  {
+    "NombreAmigurumis": "AmigurumisJyL",
+    "NombreEmpleado": "Juana",
+    "NombreSede": "Amigurumis_Santiago",
+    "TipoEmpleado": "Asesor"
+  },
+  {
+    "NombreAmigurumis": "AmigurumisJyL",
+    "NombreSede": "Amigurumis_Medellin",
+    "NombreEmpleado": "Luna",
+    "TipoEmpleado": "Manufactura"
+  },
+  {
+    "NombreAmigurumis": "AmigurumisJyL",
+    "NombreSede": "Amigurumis_Plata",
+    "NombreEmpleado": "Andrea",
+    "TipoEmpleado": "Supervisor"
+  },
+  {
+    "NombreAmigurumis": "AmigurumisJyL",
+    "NombreSede": "Amigurumis_Chihuahua",
+    "NombreEmpleado": "Juan",
+    "TipoEmpleado": "Coordinador"
+  },
+  {
+    "NombreAmigurumis": "AmigurumisJyL",
+    "NombreSede": "Amigurumis_Manaos",
+    "NombreEmpleado": "Camilo",
+    "TipoEmpleado": "Administrador"
+  }
+]

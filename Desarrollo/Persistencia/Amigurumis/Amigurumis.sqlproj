@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <Name>Amigurumis</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectVersion>4.1</ProjectVersion>
+    <ProjectGuid>{0fc3a3cf-d6f2-4332-8e2d-cca4992edd75}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
+    <OutputType>Database</OutputType>
+    <RootPath>
+    </RootPath>
+    <RootNamespace>Amigurumis</RootNamespace>
+    <AssemblyName>Amigurumis</AssemblyName>
+    <ModelCollation>1033, CI</ModelCollation>
+    <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
+    <DeployToDatabase>True</DeployToDatabase>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetLanguage>CS</TargetLanguage>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <SqlServerVerification>False</SqlServerVerification>
+    <IncludeCompositeObjects>True</IncludeCompositeObjects>
+    <TargetDatabaseSet>True</TargetDatabaseSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <BuildScriptName>$(MSBuildProjectName).sql</BuildScriptName>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
+    <!-- Default to the v11.0 targets path if the targets file for the current VS version is not found -->
+    <SSDTExists Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets')">True</SSDTExists>
+    <VisualStudioVersion Condition="'$(SSDTExists)' == ''">11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Condition="'$(SQLDBExtensionsRefPath)' != ''" Project="$(SQLDBExtensionsRefPath)\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
+  <ItemGroup>
+    <Folder Include="Properties" />
+    <Folder Include="dbo" />
+    <Folder Include="dbo\collections" />
+    <Folder Include="dbo\procedures" />
+    <Folder Include="dbo\scripts" />
+    <Folder Include="dbo\tables" />
+    <Folder Include="dbo\tables\Geografia" />
+    <Folder Include="dbo\tables\Organizacion" />
+    <Folder Include="dbo\tables\Usuario" />
+    <Folder Include="dbo\tables\Transaccional" />
+    <Folder Include="dbo\tables\Catalogo" />
+    <Folder Include="dbo\procedures\Geografia" />
+    <Folder Include="dbo\procedures\Geografia\Pais" />
+    <Folder Include="dbo\procedures\Geografia\Departamento" />
+    <Folder Include="dbo\procedures\Geografia\Ciudad" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\tables\Geografia\Pais.sql" />
+    <Build Include="dbo\tables\Geografia\Departamento.sql" />
+    <Build Include="dbo\tables\Geografia\Ciudad.sql" />
+    <Build Include="dbo\tables\Organizacion\Amigurumis.sql" />
+    <Build Include="dbo\tables\Organizacion\Sede.sql" />
+    <Build Include="dbo\tables\Organizacion\TipoEmpleado.sql" />
+    <Build Include="dbo\tables\Organizacion\Empleado.sql" />
+    <Build Include="dbo\tables\Usuario\Cliente.sql" />
+    <Build Include="dbo\tables\Transaccional\Venta.sql" />
+    <Build Include="dbo\tables\Transaccional\FormaDePago.sql" />
+    <Build Include="dbo\tables\Catalogo\Producto.sql" />
+    <Build Include="dbo\tables\Catalogo\Categoria.sql" />
+    <Build Include="dbo\tables\Transaccional\DetalleDeVenta.sql" />
+    <Build Include="dbo\tables\Transaccional\Pedido.sql" />
+    <Build Include="dbo\tables\Transaccional\HistorialPedido.sql" />
+    <Build Include="dbo\tables\Catalogo\ValoracionProducto.sql" />
+    <Build Include="dbo\tables\Usuario\Genero.sql" />
+    <Build Include="dbo\tables\Usuario\TipoDocumento.sql" />
+    <Build Include="dbo\procedures\Geografia\Pais\IngresarPais.sql" />
+    <Build Include="dbo\procedures\Geografia\Pais\ConsultarPaisPorId.sql" />
+    <Build Include="dbo\procedures\Geografia\Pais\ModificarPais.sql" />
+    <Build Include="dbo\procedures\Geografia\Pais\ConsultarPais.sql" />
+    <Build Include="dbo\procedures\Geografia\Pais\RetirarPais.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dbo\collections\geografia.json" />
+    <None Include="dbo\collections\organizacion.json" />
+    <None Include="dbo\collections\Catalogo.json" />
+    <None Include="dbo\collections\transaccion.json" />
+    <None Include="dbo\collections\Usuario.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Amigurumis.refactorlog" />
+  </ItemGroup>
+</Project>

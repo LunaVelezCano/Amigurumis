@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\ReglasNegocio\\ReglasNegocio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\InfraestructuraAmigurumisJL\\InfraestructuraAmigurumisJL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\InfraestructuraAmigurumisJL\\InfraestructuraAmigurumisJL.csproj",
+        "projectName": "InfraestructuraAmigurumisJL",
+        "projectPath": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\InfraestructuraAmigurumisJL\\InfraestructuraAmigurumisJL.csproj",
+        "packagesPath": "C:\\Users\\VANEVEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\InfraestructuraAmigurumisJL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VANEVEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\mdlAmigurumis\\mdlAmigurumis.csproj": {
+                "projectPath": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\mdlAmigurumis\\mdlAmigurumis.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\mdlAmigurumis\\mdlAmigurumis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\mdlAmigurumis\\mdlAmigurumis.csproj",
+        "projectName": "mdlAmigurumis",
+        "projectPath": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\mdlAmigurumis\\mdlAmigurumis.csproj",
+        "packagesPath": "C:\\Users\\VANEVEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\mdlAmigurumis\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VANEVEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\ReglasNegocio\\ReglasNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\ReglasNegocio\\ReglasNegocio.csproj",
+        "projectName": "ReglasNegocio",
+        "projectPath": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\ReglasNegocio\\ReglasNegocio.csproj",
+        "packagesPath": "C:\\Users\\VANEVEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\ReglasNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VANEVEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\InfraestructuraAmigurumisJL\\InfraestructuraAmigurumisJL.csproj": {
+                "projectPath": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\InfraestructuraAmigurumisJL\\InfraestructuraAmigurumisJL.csproj"
+              },
+              "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\mdlAmigurumis\\mdlAmigurumis.csproj": {
+                "projectPath": "C:\\Users\\VANEVEL\\Documents\\DocumentosLuna\\MetodologiasDesarrollo\\MD\\amigurumisJL\\MetodologiasDesarrollo\\MD\\amigurumisJL\\Desarrollo\\Persistencia\\mdlAmigurumis\\mdlAmigurumis.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
